@@ -1,2 +1,0 @@
-# FinanControl
-Finanças Pessoal
